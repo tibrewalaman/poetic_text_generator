@@ -13,12 +13,12 @@ The program consists of the following key classes:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/tibrewalaman/poetic_text_generato
+git clone https://github.com/tibrewalaman/poietic_text_generato
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd poetic_text_generato
+cd poietic_text_generato
 ```
 
 3. Run the `poem.py` file to start the simulation:
